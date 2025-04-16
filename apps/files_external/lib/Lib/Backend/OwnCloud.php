@@ -33,7 +33,7 @@ class OwnCloud extends ExternalBackend {
 			->setIdentifier('owncloud')
 			->addIdentifierAlias('\OC\Files\Storage\OwnCloud') // legacy compat
 			->setStorageClass('\OCA\Files_External\Lib\Storage\OwnCloud')
-			->setText($l->t('PiCloud'))
+			->setText($l->t('ownCloud'))
 			->addParameters([
 				(new DefinitionParameter('host', $l->t('URL'))),
 				(new DefinitionParameter('root', $l->t('Remote subfolder')))
