@@ -4,7 +4,7 @@
  * @var \OCP\IL10N $l
  * @var OC_Defaults $theme
  */
-/*script('core', 'setupchecks');
+script('core', 'setupchecks');
 script('settings', 'panels/setupchecks');
 ?>
 <div id="security-warning" class="section">
@@ -155,4 +155,3 @@ if ($_['cronErrors']) {
 		<span class="hidden icon-checkmark"><?php p($l->t('All checks passed.'));?></span>
 	</div>
 </div>
-*/

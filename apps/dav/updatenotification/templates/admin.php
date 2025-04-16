@@ -1,3 +1,0 @@
-<?php /*
-... (entire existing content) ...
-*/ ?>
