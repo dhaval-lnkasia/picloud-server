@@ -4,7 +4,7 @@
 	<name>File Firewall</name>
 	<summary>Rule-based access control engine to enforce fine-grained compliance policies</summary>
 	<licence>OCL</licence>
-	<author>ownCloud GmbH</author>
+	<author>LNKASIA TECHSOL</author>
 	<version>2.10.3</version>
 	<description>
 ownCloud allows it's administrators to set a number of file access and sharing restrictions to prevent uncontrolled data activity. To provide an even finer-grained control of access and sharing activities in security-sensitive business environments with strong compliance requirements, ownCloud Enterprise offers a File Firewall that enables administrators to specify sophisticated rules to restrict access per group, system tags, upload size, client devices, IP address, time of day, and many more criteria. For additional flexibility the File Firewall also supports regular expressions.

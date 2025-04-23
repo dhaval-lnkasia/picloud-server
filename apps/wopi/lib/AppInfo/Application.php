@@ -3,7 +3,7 @@
  * ownCloud Wopi
  *
  * @author Semih Serhat Karakaya <karakayasemi@itu.edu.tr>
- * @copyright 2019 ownCloud GmbH.
+ * @copyright 2019 LNKASIA TECHSOL.
  *
  * This code is covered by the ownCloud Commercial License.
  *

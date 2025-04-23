@@ -3,7 +3,7 @@
  * ownCloud
  *
  * @author Michael Barz <mbarz@owncloud.com>
- * @copyright (C) 2021 ownCloud GmbH
+ * @copyright (C) 2021 LNKASIA TECHSOL
  * @license ownCloud Commercial License
  *
  * This code is covered by the ownCloud Commercial License.

@@ -1,6 +1,6 @@
 /**
  *
- * @copyright Copyright (c) 2020, ownCloud GmbH
+ * @copyright LNKASIA TECHSOL
  *
  * This code is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License, version 3,

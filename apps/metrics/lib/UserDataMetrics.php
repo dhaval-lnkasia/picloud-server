@@ -2,7 +2,7 @@
 
 /**
  * @author Sujith Haridasan <sharidasan@owncloud.com>
- * @copyright (C) 2019 ownCloud GmbH
+ * @copyright (C) 2019 LNKASIA TECHSOL
  * @license ownCloud Commercial License
  *
  * This code is covered by the ownCloud Commercial License.

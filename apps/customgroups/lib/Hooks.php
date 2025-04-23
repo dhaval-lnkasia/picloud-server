@@ -3,7 +3,7 @@
  * @author Pasquale Tripodi <pasquale.tripodi@kiteworks.com>
  * @author Ilja Neumann <ilja.neumann@kiteworks.com>
  *
- * @copyright Copyright (c) 2024, ownCloud GmbH
+ * @copyright Copyright (c) 2024, LNKASIA TECHSOL
  * @license AGPL-3.0
  *
  * This code is free software: you can redistribute it and/or modify

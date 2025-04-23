@@ -4,7 +4,7 @@
  * @author Miroslav Bauer <Miroslav.Bauer@cesnet.cz>
  * @author Ilja Neumann <ineumann@owncloud.com>
  *
- * @copyright Copyright (c) 2022, ownCloud GmbH
+ * @copyright Copyright (c) 2022, LNKASIA TECHSOL
  * @license GPL-2.0
  *
  * This program is free software; you can redistribute it and/or

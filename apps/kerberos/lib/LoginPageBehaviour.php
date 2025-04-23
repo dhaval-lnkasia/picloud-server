@@ -2,7 +2,7 @@
 /**
 * @author Thomas Müller <thomas.mueller@tmit.eu>
 *
-* @copyright Copyright (c) 2022, ownCloud GmbH
+* @copyright Copyright (c) 2022, LNKASIA TECHSOL
 *
 * This code is covered by the ownCloud Commercial License.
 *

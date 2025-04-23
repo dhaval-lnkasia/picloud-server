@@ -38,7 +38,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Change the behavior of the header menus - [#75](https://github.com/owncloud/theme-enterprise/issues/75)
 - Use the ownCloud enterprise logo for the header - [#78](https://github.com/owncloud/theme-enterprise/issues/78)
 - Delete gradients and use the correct color - [#77](https://github.com/owncloud/theme-enterprise/issues/77)
-- Change the claim for ownCloud GmbH - [#79](https://github.com/owncloud/theme-enterprise/issues/79)
+- Change the claim for LNKASIA TECHSOL - [#79](https://github.com/owncloud/theme-enterprise/issues/79)
 - Bump libraries
 
 ## [2.1.2] - 2019-06-13

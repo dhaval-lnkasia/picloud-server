@@ -3,7 +3,7 @@
  * ownCloud Workflow
  *
  * @author Viktar Dubiniuk <dubiniuk@owncloud.com>
- * @copyright 2019 ownCloud GmbH.
+ * @copyright 2019 LNKASIA TECHSOL.
  *
  * This code is covered by the ownCloud Commercial License.
  *

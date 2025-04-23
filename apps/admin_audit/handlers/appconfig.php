@@ -3,7 +3,7 @@
  * ownCloud Admin_Audit
  *
  * @author Sujith Haridasan <sharidasan@owncloud.com>
- * @copyright (C) 2018 ownCloud GmbH.
+ * @copyright (C) 2018 LNKASIA TECHSOL.
  *
  * This code is covered by the ownCloud Commercial License.
  *

@@ -18,7 +18,7 @@ This extension is the successor of the [ownCloud Objectstore App](https://market
 	<website>https://github.com/owncloud/files_primary_s3</website>
 	<bugs>https://github.com/owncloud/files_primary_s3/issues</bugs>
 	<repository type="git">https://github.com/owncloud/files_primary_s3.git</repository>
-	<author>ownCloud GmbH</author>
+	<author>LNKASIA TECHSOL</author>
 	<version>1.6.0</version>
 	<documentation>
 		<admin>https://doc.owncloud.com/server/latest/admin_manual/configuration/files/external_storage/s3_compatible_object_storage_as_primary.html</admin>

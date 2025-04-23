@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * @copyright Copyright (c) 2023, ownCloud GmbH
+ * @copyright Copyright (c) 2023, LNKASIA TECHSOL
  * @license AGPL-3.0
  *
  * This code is free software: you can redistribute it and/or modify

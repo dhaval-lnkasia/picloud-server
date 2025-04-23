@@ -3,7 +3,7 @@
  * ownCloud Wopi
  *
  * @author Piotr Mrowczynski <piotr@owncloud.com>
- * @copyright 2021 ownCloud GmbH.
+ * @copyright 2021 LNKASIA TECHSOL.
  *
  * This code is covered by the ownCloud Commercial License.
  *

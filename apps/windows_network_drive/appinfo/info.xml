@@ -9,7 +9,7 @@ Once a drive has been integrated by an administrator, users see a folder structu
 Additional ownCloud configuration is required. More information is available in the ownCloud documentation.
     </description>
     <licence>OCL</licence>
-    <author>ownCloud GmbH</author>
+    <author>LNKASIA TECHSOL</author>
     <category>storage</category>
     <screenshot>https://raw.githubusercontent.com/owncloud/screenshots/master/windows_network_drive/owncloud-app-windows-network-drive.jpg</screenshot>
     <types>

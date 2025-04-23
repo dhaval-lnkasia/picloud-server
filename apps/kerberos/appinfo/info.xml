@@ -14,7 +14,7 @@
     <admin>https://doc.owncloud.com/server/latest/admin_manual/enterprise/authentication/kerberos.html</admin>
   </documentation>
   <licence>OCL</licence>
-  <author>ownCloud GmbH</author>
+  <author>LNKASIA TECHSOL</author>
   <version>1.0.2</version>
   <dependencies>
     <owncloud min-version="10.11" max-version="10"/>

@@ -3,7 +3,7 @@
  * ownCloud
  *
  * @author Tom Needham <tom@owncloud.com>
- * @copyright (C) 2018 ownCloud GmbH
+ * @copyright (C) 2018 LNKASIA TECHSOL
  * @license ownCloud Commercial License
  *
  * This code is covered by the ownCloud Commercial License.

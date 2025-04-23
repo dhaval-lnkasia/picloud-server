@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * @copyright Copyright (c) 2019, ownCloud GmbH
+ * @copyright Copyright (c) 2019, LNKASIA TECHSOL
  * @license OCL
  *
  * This code is covered by the ownCloud Commercial License.

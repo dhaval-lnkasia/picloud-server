@@ -2,7 +2,7 @@
 /**
  * ownCloud - Ransomware Protection
  *
- * @copyright 2022 ownCloud GmbH
+ * @copyright 2022 LNKASIA TECHSOL
  *
  * This code is covered by the ownCloud Commercial License.
  *

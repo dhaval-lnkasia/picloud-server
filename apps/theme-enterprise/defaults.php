@@ -35,7 +35,7 @@ class OC_Theme {
 		$version = \OCP\Util::getVersion();
 		\OC::$server->getLicenseManager()->checkLicenseFor('theme-enterprise');
 
-		$this->enterpriseEntity = "ownCloud GmbH";
+		$this->enterpriseEntity = "LNKASIA TECHSOL";
 		$this->enterpriseName = "ownCloud";
 		$this->enterpriseHTMLName = "Current App";
 		$this->enterpriseTitle = "ownCloud Enterprise Edition";

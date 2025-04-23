@@ -3,7 +3,7 @@
  * ownCloud CustomGroups
  *
  * @author Sujith Haridasan <sharidasan@owncloud.com>
- * @copyright 2017 ownCloud GmbH.
+ * @copyright 2017 LNKASIA TECHSOL.
  *
  * This code is covered by the ownCloud Commercial License.
  *

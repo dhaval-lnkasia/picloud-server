@@ -6,7 +6,7 @@
  * @author Jörn Friedrich Dreyer <jfd@owncloud.com>
  * @author Krzesimir Nowak
  * @author Iago López Galeiras
- * @copyright (C) 2014-2018 ownCloud GmbH
+ * @copyright (C) 2014-2018 LNKASIA TECHSOL
  *
  * This code is covered by the ownCloud Commercial License.
  *

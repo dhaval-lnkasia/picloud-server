@@ -3,7 +3,7 @@
 	<id>files_ldap_home</id>
 	<name>LDAP Home Connector</name>
 	<licence>OCL</licence>
-	<author>ownCloud GmbH</author>
+	<author>LNKASIA TECHSOL</author>
 	<dependencies>
 		<owncloud min-version="10.5" max-version="10" />
 	</dependencies>

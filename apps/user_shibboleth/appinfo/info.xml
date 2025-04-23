@@ -14,7 +14,7 @@
   <category>integration</category>
   <screenshot>https://raw.githubusercontent.com/owncloud/screenshots/master/user_shibboleth/owncloud-app-user_shibboleth.jpg</screenshot>
   <licence>OCL</licence>
-  <author>ownCloud GmbH</author>
+  <author>LNKASIA TECHSOL</author>
   <version>3.6.0</version>
   <documentation>
     <admin>https://doc.owncloud.com/server/latest/admin_manual/enterprise/user_management/user_auth_shibboleth.html</admin>

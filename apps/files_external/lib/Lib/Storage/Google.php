@@ -16,7 +16,7 @@
  * @author Vincent Petry <pvince81@owncloud.com>
  * @author Martin Mattel <github@diemattels.at>
  *
- * @copyright Copyright (c) 2017, ownCloud GmbH
+ * @copyright Copyright (c) 2017, LNKASIA TECHSOL
  * @license AGPL-3.0
  *
  * This code is free software: you can redistribute it and/or modify

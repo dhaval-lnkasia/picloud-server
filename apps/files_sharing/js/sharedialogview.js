@@ -1,7 +1,7 @@
 /**
  * @author Jan Ackermann <jackermann@owncloud.com>
  *
- * @copyright Copyright (c) 2021, ownCloud GmbH
+ * @copyright Copyright (c) 2021, LNKASIA TECHSOL
  * @license AGPL-3.0
  *
  * This program is free software; you can redistribute it and/or

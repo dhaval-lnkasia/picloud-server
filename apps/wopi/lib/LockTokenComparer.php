@@ -3,7 +3,7 @@
  * ownCloud Wopi
  *
  * @author Thomas Müller <thomas.mueller@tmit.eu>
- * @copyright 2020 ownCloud GmbH.
+ * @copyright 2020 LNKASIA TECHSOL.
  *
  * This code is covered by the ownCloud Commercial License.
  *

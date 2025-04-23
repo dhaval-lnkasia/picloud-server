@@ -1,7 +1,7 @@
 <?php
 /**
  * @author Thomas Müller <thomas.mueller@tmit.eu>
- * @copyright (C) 2022 ownCloud GmbH
+ * @copyright (C) 2022 LNKASIA TECHSOL
  * @license ownCloud Commercial License
  *
  * This code is covered by the ownCloud Commercial License.

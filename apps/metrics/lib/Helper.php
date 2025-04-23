@@ -2,7 +2,7 @@
 
 /**
  * @author Benedikt Kulmann <bkulmann@owncloud.com>
- * @copyright (C) 2020 ownCloud GmbH
+ * @copyright (C) 2020 LNKASIA TECHSOL
  * @license ownCloud Commercial License
  *
  * This code is covered by the ownCloud Commercial License.

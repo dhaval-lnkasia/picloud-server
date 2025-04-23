@@ -3,7 +3,7 @@
   <id>admin_audit</id>
   <name>Auditing</name>
   <licence>OCL</licence>
-  <author>ownCloud GmbH</author>
+  <author>LNKASIA TECHSOL</author>
   <dependencies>
     <owncloud min-version="10.11" max-version="10" />
     <php min-version="7.4" />

@@ -2,7 +2,7 @@
 /**
  * ownCloud
  *
- * @copyright (C) 2024 ownCloud GmbH
+ * @copyright (C) 2024 LNKASIA TECHSOL
  * @license ownCloud Commercial License
  *
  * This code is covered by the ownCloud Commercial License.

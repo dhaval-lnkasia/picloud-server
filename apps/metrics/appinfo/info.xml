@@ -4,7 +4,7 @@
 	<name>Metrics</name>
 	<namespace>Metrics</namespace>
 	<licence>OCL</licence>
-	<author>ownCloud GmbH</author>
+	<author>LNKASIA TECHSOL</author>
 	<dependencies>
 		<php min-version="7.3" />
 		<owncloud min-version="10.5" max-version="10" />

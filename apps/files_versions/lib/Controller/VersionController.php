@@ -3,7 +3,7 @@
  * @author Jannik Stehle <jstehle@owncloud.com>
  * @author Piotr Mrowczynski <piotr@owncloud.com>
  *
- * @copyright Copyright (c) 2022, ownCloud GmbH
+ * @copyright Copyright (c) 2022, LNKASIA TECHSOL
  * @license AGPL-3.0
  *
  * This code is free software: you can redistribute it and/or modify

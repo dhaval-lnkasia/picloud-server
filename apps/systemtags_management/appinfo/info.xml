@@ -3,7 +3,7 @@
 	<id>systemtags_management</id>
 	<name>Collaborative Tags Management</name>
 	<licence>OCL</licence>
-	<author>ownCloud GmbH</author>
+	<author>LNKASIA TECHSOL</author>
 	<version>0.4.1</version>
 	<summary>Admin interface for managing Collaborative Tags of an ownCloud instance</summary>
 	<description>

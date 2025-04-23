@@ -22,7 +22,7 @@ For more information on setup, configuration and usage, please consult the ownCl
 	</description>
 	<namespace>Files_Lifecycle</namespace>
 	<licence>OCL</licence>
-	<author>ownCloud GmbH</author>
+	<author>LNKASIA TECHSOL</author>
 	<version>1.3.5</version>
 	<category>automation</category>
 	<screenshot>https://raw.githubusercontent.com/owncloud/screenshots/master/files_lifecycle/ownCloud-app-file-lifecycle-management.jpg</screenshot>

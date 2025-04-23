@@ -10,7 +10,7 @@ Once a SharePoint document library is mounted by the admin, users see a folder s
 	<category>storage</category>
 	<screenshot>https://raw.githubusercontent.com/owncloud/screenshots/master/sharepoint/owncloud-app-external_storage_sharepoint.jpg</screenshot>
         <licence>OCL</licence>
-        <author>ownCloud GmbH / Jesus Macias Portela</author>
+        <author>LNKASIA TECHSOL / Jesus Macias Portela</author>
 	<dependencies>
 		<owncloud min-version="10.5" max-version="10" />
 	</dependencies>

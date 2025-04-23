@@ -1,7 +1,7 @@
 /**
  * @author Piotr Mrowczynski <piotr@owncloud.com>
  *
- * @copyright Copyright (c) 2022, ownCloud GmbH
+ * @copyright Copyright (c) 2022, LNKASIA TECHSOL
  *
  * This code is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License, version 3,

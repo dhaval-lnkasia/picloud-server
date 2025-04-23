@@ -2,7 +2,7 @@
 /**
  * @author Viktar Dubiniuk <dubiniuk@owncloud.com>
  *
- * @copyright Copyright (c) 2017, ownCloud GmbH
+ * @copyright Copyright (c) 2017, LNKASIA TECHSOL
  * @license GPL-2.0
  *
  * This program is free software; you can redistribute it and/or

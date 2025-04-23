@@ -3,7 +3,7 @@
  * adfs2fed.php
  *
  * @author Jörn Friedrich Dreyer <jfd@butonic.de>
- * @copyright (C) 2017-2018 ownCloud GmbH
+ * @copyright (C) 2017-2018 LNKASIA TECHSOL
  *
  * This code is covered by the ownCloud Commercial License.
  *

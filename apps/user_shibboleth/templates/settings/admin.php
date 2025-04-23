@@ -4,7 +4,7 @@
  *
  * @author Thomas Müller <deepdiver@owncloud.com>
  * @author Jörn Friedrich Dreyer <jfd@owncloud.com>
- * @copyright (C) 2014-2018 ownCloud GmbH
+ * @copyright (C) 2014-2018 LNKASIA TECHSOL
  *
  * This code is covered by the ownCloud Commercial License.
  *

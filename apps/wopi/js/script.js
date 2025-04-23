@@ -3,7 +3,7 @@
  *
  * @author Thomas Müller <thomas.mueller@tmit.eu>
  * @author Piotr Mrowczynski <piotr@owncloud.com>
- * @copyright 2018-2021 ownCloud GmbH.
+ * @copyright 2018-2021 LNKASIA TECHSOL.
  *
  * This code is covered by the ownCloud Commercial License.
  *

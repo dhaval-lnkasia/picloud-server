@@ -35,7 +35,7 @@ As with other malware ransomware becomes more sophisticated over time leading to
 For more information regarding setup, usage and limitations, please read the [ownCloud Ransomware Protection Documentation](https://doc.owncloud.com/server/latest/admin_manual/configuration/server/security/ransomware-protection.html).
 	</description>
 	<licence>OCL</licence>
-	<author>ownCloud GmbH, BW-Tech GmbH, Viedev GmbH</author>
+	<author>LNKASIA TECHSOL, BW-Tech GmbH, Viedev GmbH</author>
 	<version>1.7.1</version>
 	<category>security</category>
 	<documentation>

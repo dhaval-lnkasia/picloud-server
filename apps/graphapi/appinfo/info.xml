@@ -12,7 +12,7 @@ It enables ownCloud Infinite Scale components like the built-in Identity Provide
 	<namespace>Graph</namespace>
 	<version>0.3.1</version>
 	<licence>GPLv2</licence>
-	<author>ownCloud GmbH</author>
+	<author>LNKASIA TECHSOL</author>
 	<dependencies>
 		<owncloud min-version="10.11" max-version="10" />
 		<php min-version="7.1" />

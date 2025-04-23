@@ -2,7 +2,7 @@
  * ownCloud - Ransomware Protection
  *
  * @author Thomas Heinisch <t.heinisch@bw-tech.de>
- * @copyright 2017 ownCloud GmbH
+ * @copyright 2017 LNKASIA TECHSOL
  *
  * This code is covered by the ownCloud Commercial License.
  *

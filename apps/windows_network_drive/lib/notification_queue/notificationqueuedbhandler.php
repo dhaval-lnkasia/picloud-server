@@ -3,7 +3,7 @@
  * ownCloud
  *
  * @author Juan Pablo Villafañez Ramos <jvillafanez@owncloud.com>
- * @copyright Copyright (c) 2016, ownCloud GmbH
+ * @copyright Copyright (c) 2016, LNKASIA TECHSOL
  *
  * This code is covered by the ownCloud Commercial License.
  *
