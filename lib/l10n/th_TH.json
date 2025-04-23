@@ -153,7 +153,7 @@
     "Settings" : "ตั้งค่า",
     "Users" : "ผู้ใช้งาน",
     "App \"%s\" cannot be installed because the following dependencies are not fulfilled: %s" : "แอปฯ \"%s\" ไม่สามารถติดตั้งเพราะไม่ได้ปฏิบัติตามการอ้างอิงต่อไปนี้: %s",
-    "A safe home for all your data" : "สะดวกและปลอดภัยสำหรับข้อมูลทั้งหมดของคุณ",
+    "Your on-demand storage solution" : "สะดวกและปลอดภัยสำหรับข้อมูลทั้งหมดของคุณ",
     "Imprint" : "นโยบาย",
     "Privacy Policy" : "นโยบายความเป็นส่วนตัว",
     "File is currently busy, please try again later" : "ขณะนี้ไฟล์กำลังใช้งานอยู่ โปรดลองอีกครั้งในภายหลัง",

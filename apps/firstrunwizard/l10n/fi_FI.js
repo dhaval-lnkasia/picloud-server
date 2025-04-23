@@ -1,7 +1,7 @@
 OC.L10N.register(
     "firstrunwizard",
     {
-    "A safe home for all your data" : "Turvallinen koti tiedoillesi",
+    "Your on-demand storage solution" : "Turvallinen koti tiedoillesi",
     "Access & share your files, calendars, contacts, mail & more from any device, on your terms" : "Käytä ja jaa tiedostoja, kalentereita, yhteystietoja, sähköpostia ja paljon muuta miltä tahansa laitteelta omilla ehdoillasi",
     "Get the apps to sync your files" : "Aseta sovellukset synkronoimaan tiedostosi",
     "Desktop client" : "Työpöytäsovellus",

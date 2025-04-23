@@ -1,7 +1,7 @@
 OC.L10N.register(
     "firstrunwizard",
     {
-    "A safe home for all your data" : "مكان آمن لجميع بياناتك",
+    "Your on-demand storage solution" : "مكان آمن لجميع بياناتك",
     "Access & share your files, calendars, contacts, mail & more from any device, on your terms" : "يمكنك الوصول إلى الملفات، والتقاويم، وجهات الاتصال، والبريد، والمزيد، ومشاركتها من أي جهاز وفقًا لشروطك",
     "Get the apps to sync your files" : "الحصول على تطبيقات لمزامنة ملفاتك",
     "Desktop client" : "عميل سطح المكتب",

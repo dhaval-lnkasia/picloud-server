@@ -1,7 +1,7 @@
 OC.L10N.register(
     "firstrunwizard",
     {
-    "A safe home for all your data" : "Ein sicherer Speicherplatz für all Ihre Daten",
+    "Your on-demand storage solution" : "Ein sicherer Speicherplatz für all Ihre Daten",
     "Access & share your files, calendars, contacts, mail & more from any device, on your terms" : "Erreiche & Teile deine Dateien, Kalender, Kontakte, Mails & mehr von jedem Gerät unter deinen Bedingungen",
     "Get the apps to sync your files" : "Laden Sie die Apps zur Synchronisierung Ihrer Daten herunter",
     "Desktop client" : "Desktop-Client",

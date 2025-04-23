@@ -286,7 +286,7 @@ The following projects are using this library:
 
   * [RulerZ](https://github.com/K-Phoen/rulerz), Powerful implementation of the
     Specification pattern in PHP,
-  * [ownCloud](https://owncloud.org/), A safe home for all your data,
+  * [ownCloud](https://owncloud.org/), Your on-demand storage solution,
   * [PhpMetrics](http://www.phpmetrics.org/), Static analysis tool for PHP,
   * [`atoum/ruler-extension`](https://github.com/atoum/ruler-extension), This
     extension allows to filter test results in [atoum](http://atoum.org/).

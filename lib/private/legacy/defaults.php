@@ -70,7 +70,7 @@ class OC_Defaults {
 		$this->defaultAndroidClientUrl = 'https://play.google.com/store/apps/details?id=com.picloud.android';
 		$this->defaultDocBaseUrl = 'https://lnkasia.com';
 		$this->defaultDocVersion = $version[0] . '.' . $version[1]; // used to generate doc links
-		$this->defaultSlogan = $this->l->t('A safe home for all your data');
+		$this->defaultSlogan = $this->l->t('Your on-demand storage solution');
 		$this->defaultLogoClaim = '';
 		$this->defaultMailHeaderColor = '#041e42'; /* header color of mail notifications */
 

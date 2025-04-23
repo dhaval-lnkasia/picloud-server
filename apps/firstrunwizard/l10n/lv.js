@@ -1,7 +1,7 @@
 OC.L10N.register(
     "firstrunwizard",
     {
-    "A safe home for all your data" : "Droša vieta visiem jūsu datiem",
+    "Your on-demand storage solution" : "Droša vieta visiem jūsu datiem",
     "Access & share your files, calendars, contacts, mail & more from any device, on your terms" : "Piekļūstiet un kopīgojiet failus, kalendārus, kontaktpersonas, e-pastu un citu, no jebkuras ierīces atbilstoši savām vajadzībām.",
     "Get the apps to sync your files" : "Saņem lietotnes, lai sinhronizētu savas datnes",
     "Desktop client" : "Darbvirsmas klients",

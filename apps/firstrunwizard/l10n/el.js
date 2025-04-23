@@ -1,7 +1,7 @@
 OC.L10N.register(
     "firstrunwizard",
     {
-    "A safe home for all your data" : "Ένα ασφαλές μέρος για τα δεδομένα σας.",
+    "Your on-demand storage solution" : "Ένα ασφαλές μέρος για τα δεδομένα σας.",
     "Access & share your files, calendars, contacts, mail & more from any device, on your terms" : "Δείτε και μοιράστε τα αρχεία σας, ημερολόγια, επαφές, email και άλλα, από οποιαδήποτε συσκευή, με τον τρόπο που εσείς θέλετε",
     "Get the apps to sync your files" : "Λήψη των εφαρμογών για συγχρονισμό των αρχείων σας",
     "Desktop client" : "Πελάτης σταθερού υπολογιστή",

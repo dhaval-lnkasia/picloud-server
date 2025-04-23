@@ -1,7 +1,7 @@
 OC.L10N.register(
     "firstrunwizard",
     {
-    "A safe home for all your data" : "Toki segurua zure datu guztietarako",
+    "Your on-demand storage solution" : "Toki segurua zure datu guztietarako",
     "Get the apps to sync your files" : "Lortu aplikazioak zure fitxategiak sinkronizatzeko",
     "Desktop client" : "Mahaigaineko bezeroa",
     "Android app" : "Android aplikazioa",

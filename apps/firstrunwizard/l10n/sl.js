@@ -1,7 +1,7 @@
 OC.L10N.register(
     "firstrunwizard",
     {
-    "A safe home for all your data" : "Varno mesto za vse pomembne podatke",
+    "Your on-demand storage solution" : "Varno mesto za vse pomembne podatke",
     "Access & share your files, calendars, contacts, mail & more from any device, on your terms" : "Dostop in souporaba datotek, koledarja, stikov, elektronske pošte in drugih virov na napravi, pod vašimi pogoji!",
     "Get the apps to sync your files" : "Pridobi programe za usklajevanje datotek",
     "Desktop client" : "Namizni odjemalec",
