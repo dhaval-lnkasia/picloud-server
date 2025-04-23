@@ -8,7 +8,7 @@ OC.L10N.register(
     "All queries (summary, single queries with their parameters)" : "Alle navrae (opsomming, enkelnavrae met hul parameters)",
     "All events (summary, single events)" : "Alle gebeure (opsomming, enkelgebeure)",
     "Everything (summary, single queries with their parameters and events)" : "Alles (opsomming, enkelnavrae met hul parameters en gebeure)",
-    "Enabling this ownCloud diagnostic module will result in collecting data about all queries and events in the system per request." : "Aktivering van hierdie ownCloud-diagnosemodule sal lei tot die insamel van alle navrae en gebeure in die stelsel per versoek.",
+    "Enabling this PiCloud diagnostic module will  result in collecting data about all queries and events in the system per request." : "Aktivering van hierdie ownCloud-diagnosemodule sal lei tot die insamel van alle navrae en gebeure in die stelsel per versoek.",
     "Collect data only after authentication of users:" : "Versamel slegs data na verifiëring van gebruikers:",
     "Please specify full user name for best search performance" : "Spesifiseer volle gebruikersnaam vir die beste soekverrigting",
     "What to log" : "Wat om te log",

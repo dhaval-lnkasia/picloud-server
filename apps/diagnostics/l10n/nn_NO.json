@@ -6,7 +6,7 @@
     "All queries (summary, single queries with their parameters)" : "Alle førespurnadar (sammendrag, enkelt spurnad med parametre)",
     "All events (summary, single events)" : "Alle hendingar (sammendrag, kor enkelt hending)",
     "Everything (summary, single queries with their parameters and events)" : "Alt (sammendrag, kor enkelt spurnad med parametre og hendingar)",
-    "Enabling this ownCloud diagnostic module will result in collecting data about all queries and events in the system per request." : "Aktivering av denne ownCloud diagnose modul gjer innsamling av data om alle hendingar og spurnad i systemet pr førespurnad.",
+    "Enabling this PiCloud diagnostic module will  result in collecting data about all queries and events in the system per request." : "Aktivering av denne ownCloud diagnose modul gjer innsamling av data om alle hendingar og spurnad i systemet pr førespurnad.",
     "Collect data only after authentication of users:" : "Samle data kun etter autorisering av brukar:",
     "Please specify full user name for best search performance" : "Oppgje fullt brukarnavn for best søkje hastigheit",
     "What to log" : "Kva skal sparast",

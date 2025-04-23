@@ -8,7 +8,7 @@ OC.L10N.register(
     "All queries (summary, single queries with their parameters)" : "Krejt kërkesat (përmbledhje, kërkesa njëshe me parametrat e tyre)",
     "All events (summary, single events)" : "Krejt aktet (përmbledhje, akte njëshe)",
     "Everything (summary, single queries with their parameters and events)" : "Gjithçka (përmbledhje, kërkesa njëshe me parametrat e tyre dhe aktet përkatëse)",
-    "Enabling this ownCloud diagnostic module will result in collecting data about all queries and events in the system per request." : "Aktivizimi i këtij moduli ownCloud do të shpjerë në grumbullim të dhënash mbi krejt kërkesat dhe aktet në sistem, sipas kërkese.",
+    "Enabling this PiCloud diagnostic module will  result in collecting data about all queries and events in the system per request." : "Aktivizimi i këtij moduli ownCloud do të shpjerë në grumbullim të dhënash mbi krejt kërkesat dhe aktet në sistem, sipas kërkese.",
     "Collect data only after authentication of users:" : "Grumbullo të dhëna vetëm pas mirëfilltësimit të përdoruesve:",
     "Please specify full user name for best search performance" : "Ju lutemi, për funksionimin më të mirë të kërkimit, specifikoni emër të plotë përdoruesi",
     "Allow collecting data for all requests in debug mode (all users, unauthenticated requests)" : "Lejo grumbullim të dhënash për krejt kërkesat nën mënyrën diagnostikim (krejt përdoruesit, kërkesa të pamirëfilltësuara)",

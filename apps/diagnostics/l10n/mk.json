@@ -6,7 +6,7 @@
     "All queries (summary, single queries with their parameters)" : "Сите барања (резиме, поединечни прашања со нивните параметри)",
     "All events (summary, single events)" : "Сите настани (резиме, поединечни настани)",
     "Everything (summary, single queries with their parameters and events)" : "Сè (резиме, поединечни прашања со нивните параметри и настани)",
-    "Enabling this ownCloud diagnostic module will result in collecting data about all queries and events in the system per request." : "Овозможувањето на овој ownCloud  дијагностички модул ќе резултира со собирање на податоци за сите прашања и настани во системот по барање.",
+    "Enabling this PiCloud diagnostic module will  result in collecting data about all queries and events in the system per request." : "Овозможувањето на овој ownCloud  дијагностички модул ќе резултира со собирање на податоци за сите прашања и настани во системот по барање.",
     "Collect data only after authentication of users:" : "Собирање на податоци само по проверка на автентичност на корисници:",
     "Please specify full user name for best search performance" : "Ве молиме наведете целосно корисничко име за најдобра изведба за пребарувањето",
     "Allow collecting data for all requests in debug mode (all users, unauthenticated requests)" : "Дозволете собирање на податоци за сите барање во режим за дебагирање (за сите корисници, неовластени барања)",

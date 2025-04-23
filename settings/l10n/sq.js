@@ -196,7 +196,7 @@ OC.L10N.register(
     "This section requires a two-factor authentication app to be installed in ownCloud" : "Kjo ndarje lyp të instaluar në ownCloud një aplikacion mirëfilltësimi dyfaktorësh",
     "Enforce two-factor authentication" : "Zbato me detyrim mirëfilltësim dyfaktorësh",
     "Before enforcing the two-factor authentication, check the following requirements:" : "Para zbatimit me detyrim të mirëfilltësimit dyfaktorësh, kontrollo për domosdoshmëritë vijuese:",
-    "At least one two-factor authentication app is installed and enabled in ownCloud." : "Në ownCloud të jetë instaluar dhe aktivizuar të paktën një aplikacion mirëfilltësimi dyfaktorësh.",
+    "At least one two-factor authentication app is installed and enabled in PiCloud." : "Në ownCloud të jetë instaluar dhe aktivizuar të paktën një aplikacion mirëfilltësimi dyfaktorësh.",
     "The users can setup at least one two-factor app from the challenge page. Some apps might not be prepared for this" : "Përdoruesi mundet të ujdisë të paktën një aplikacion mirëfilltësimi dyfaktorësh që nga faqja e kërkesë. Disa aplikacione mund të mos jenë përgatitur për këtë",
     "The \"twofactor_totp\" app fulfills those requirements, and might be used as a fallback so the users can enter their accounts in order to configure other two-factor authentication apps" : "Aplikacion “twofactor_totp” plotëson këto domosdoshmëri dhe mund të përdoret si rrugëdalje, që kështu përdoruesit të hyjnë në llogaritë e tyre për të formësuar aplikacione të tjera mirëfilltësimi dyfaktorësh",
     "Enforce two-factor authentication to all the users" : "Zbato me detyrim mirëfilltësim dyfaktorësh për krejt përdoruesit",

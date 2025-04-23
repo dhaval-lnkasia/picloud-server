@@ -194,7 +194,7 @@
     "This section requires a two-factor authentication app to be installed in ownCloud" : "مەزكۇر بۆلەك ownCloud دا ئىككى ئېلېمېنتلۇق دەلىللەش پروگراممىسىنىڭ قاچىلىنىشىنى تەلەپ قىلىدۇ",
     "Enforce two-factor authentication" : "ئىككى ئېلېمېنتلۇق دەلىللەشنى ئىشقا ئاشۇرۇش",
     "Before enforcing the two-factor authentication, check the following requirements:" : "ئىككى ئېلېمېنتلۇق دەلىللەشنى ئىشقا ئاشۇرۇش ئۈچۈن، تۆۋەندىكى تەلەپلەرنى تەكشۈرۈڭ:",
-    "At least one two-factor authentication app is installed and enabled in ownCloud." : "ownCloud دا ئاز دېگەندە بىر ئىككى ئېلېمېنتلۇق دەلىللەش پروگراممىسىنىڭ قاچىلىنىشىنى كېرەك.",
+    "At least one two-factor authentication app is installed and enabled in PiCloud." : "ownCloud دا ئاز دېگەندە بىر ئىككى ئېلېمېنتلۇق دەلىللەش پروگراممىسىنىڭ قاچىلىنىشىنى كېرەك.",
     "The users can setup at least one two-factor app from the challenge page. Some apps might not be prepared for this" : "ئىشلەتكۈچى ئاز دىگەندە بىر ئىككى ئېلېمېنتلۇق دەلىللەش پروگراممىسىنىڭ قاچىلىنىشىنى كېرەك. بەزى ئەپلەر بۇنىڭغا تەييارلانغان بۇلىشى ناتايىن",
     "The \"twofactor_totp\" app fulfills those requirements, and might be used as a fallback so the users can enter their accounts in order to configure other two-factor authentication apps" : "\"twofactor_totp\" پروگراممىسى ئۇ تەلەپلەرنى قاندۇرىدۇ، ھەمدە كەينىگە قايتىش ئۈچۈن ئىشلىتىلىدۇ شۇنداق بولغاندا ئىشلەتكۈچىلەر باشقا ئىككى ئېلېمېنتلۇق دەلىللەش ئېپىنى قاچىلاشتىن بۇرۇن ھېساباتلىرىغا كىرەلەيدۇ.",
     "Enforce two-factor authentication to all the users" : "ھەممە ئىشلەتكۈچىنىڭ ئارايۈزىدە ئىككى ئېلېمېنتلۇق دەلىللەشنى مەجبۇرلاش",

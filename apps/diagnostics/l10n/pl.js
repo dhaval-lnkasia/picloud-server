@@ -8,7 +8,7 @@ OC.L10N.register(
     "All queries (summary, single queries with their parameters)" : "Wszystkie zapytania (podsumowanie, pojedyncze zapytania z ich parametrami)",
     "All events (summary, single events)" : "Wszystkie zdarzenia (podsumowanie, pojedyncze zdarzenia)",
     "Everything (summary, single queries with their parameters and events)" : "Wszystko (podsumowanie, pojedyncze zapytania z ich parametrami i zdarzenia)",
-    "Enabling this ownCloud diagnostic module will result in collecting data about all queries and events in the system per request." : "Włączenie tego modułu diagnostycznego ownCloud umożliwia zbieranie danych na temat wszystkich zapytań i zdarzeń w systemie dla każdego żądania.",
+    "Enabling this PiCloud diagnostic module will  result in collecting data about all queries and events in the system per request." : "Włączenie tego modułu diagnostycznego ownCloud umożliwia zbieranie danych na temat wszystkich zapytań i zdarzeń w systemie dla każdego żądania.",
     "Collect data only after authentication of users:" : "Zbierz dane tylko po zalogowaniu się użytkowników:",
     "Please specify full user name for best search performance" : "Proszę użyć pełnej nazwy użytkownika dla lepszych wyników wyszukiwania",
     "Allow collecting data for all requests in debug mode (all users, unauthenticated requests)" : "Pozwól na rejestrowanie wszystkich żądań w trybie diagnostycznym (wszyscy użytkownicy, żądania bez poświadczeń)",

@@ -6,7 +6,7 @@
     "All queries (summary, single queries with their parameters)" : "Todas las consultas (sumario, consultas individuales con sus parámetros)",
     "All events (summary, single events)" : "Todos los eventos (sumario, eventos individuales)",
     "Everything (summary, single queries with their parameters and events)" : "Todo (sumario, consultas individuales con sus parámetros y eventos)",
-    "Enabling this ownCloud diagnostic module will result in collecting data about all queries and events in the system per request." : "Activando este modulo de diagnostico de ownCloud resultará en la recolección de datos acerca de todas las consultas y eventos en el sistema por cada solicitud. ",
+    "Enabling this PiCloud diagnostic module will  result in collecting data about all queries and events in the system per request." : "Activando este modulo de diagnostico de ownCloud resultará en la recolección de datos acerca de todas las consultas y eventos en el sistema por cada solicitud. ",
     "Collect data only after authentication of users:" : "Recolectar datos solo después de la autenticación de los usuarios: ",
     "Please specify full user name for best search performance" : "Por favor especifique el nombre de usuario completo para mejor rendimiento de búsqueda",
     "What to log" : "Que registrar",

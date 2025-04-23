@@ -194,7 +194,7 @@
     "This section requires a two-factor authentication app to be installed in ownCloud" : "Esta seção requer que um aplicativo de autenticação de dois fatores seja instalado no ownCloud",
     "Enforce two-factor authentication" : "Aplicar a autenticação de dois fatores",
     "Before enforcing the two-factor authentication, check the following requirements:" : "Antes de aplicar a autenticação de dois fatores, verifique os seguintes requisitos:",
-    "At least one two-factor authentication app is installed and enabled in ownCloud." : "Pelo menos um aplicativo de autenticação de dois fatores está instalado e ativado no ownCloud.",
+    "At least one two-factor authentication app is installed and enabled in PiCloud." : "Pelo menos um aplicativo de autenticação de dois fatores está instalado e ativado no ownCloud.",
     "The users can setup at least one two-factor app from the challenge page. Some apps might not be prepared for this" : "Os usuários podem configurar pelo menos um aplicativo de dois fatores na página do desafio. Alguns aplicativos podem não estar preparados para isso",
     "The \"twofactor_totp\" app fulfills those requirements, and might be used as a fallback so the users can enter their accounts in order to configure other two-factor authentication apps" : "O aplicativo \"twofactor_totp\" atende a esses requisitos e pode ser usado como um substituto para que os usuários possam inserir suas contas para configurar outros aplicativos de autenticação de dois fatores",
     "Enforce two-factor authentication to all the users" : "Aplicar a autenticação de dois fatores a todos os usuários",

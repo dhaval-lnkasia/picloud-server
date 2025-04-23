@@ -19,7 +19,7 @@ style('diagnostics', 'settings-admin');
 	<h2 class="app-name"><?php p($l->t('Diagnostics')); ?></h2>
 	<em>
 		<?php
-		p($l->t('Enabling this ownCloud diagnostic module will result in collecting data '.
+		p($l->t('Enabling this PiCloud diagnostic module will  result in collecting data '.
 			'about all queries and events in the system per request.'));
 ?>
 	</em>

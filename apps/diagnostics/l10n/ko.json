@@ -6,7 +6,7 @@
     "All queries (summary, single queries with their parameters)" : "모든 질의(요약, 매개 변수를 포함한 개별 질의)",
     "All events (summary, single events)" : "모든 이벤트(요약, 개별 이벤트)",
     "Everything (summary, single queries with their parameters and events)" : "전체(요약, 매개 변수를 포함한 개별 질의와 이벤트)",
-    "Enabling this ownCloud diagnostic module will result in collecting data about all queries and events in the system per request." : "ownCloud 진단 모듈을 활성화하면 시스템에 발생한 모든 요청마다 쿼리와 이벤트 데이터를 수집합니다.",
+    "Enabling this PiCloud diagnostic module will  result in collecting data about all queries and events in the system per request." : "ownCloud 진단 모듈을 활성화하면 시스템에 발생한 모든 요청마다 쿼리와 이벤트 데이터를 수집합니다.",
     "Collect data only after authentication of users:" : "사용자 인증 후에만 데이터 수집:",
     "Please specify full user name for best search performance" : "검색 성능을 향상하려면 전체 사용자 이름을 입력하십시오",
     "Allow collecting data for all requests in debug mode (all users, unauthenticated requests)" : "디버그 모드에서 모든 요청 정보를 수집하도록 허용 (모든 사용자, 미인증 요청)",

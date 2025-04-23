@@ -196,7 +196,7 @@ OC.L10N.register(
     "This section requires a two-factor authentication app to be installed in ownCloud" : "This section requires a two-factor authentication app to be installed in ownCloud",
     "Enforce two-factor authentication" : "Enforce two-factor authentication",
     "Before enforcing the two-factor authentication, check the following requirements:" : "Before enforcing the two-factor authentication, check the following requirements:",
-    "At least one two-factor authentication app is installed and enabled in ownCloud." : "At least one two-factor authentication app is installed and enabled in ownCloud.",
+    "At least one two-factor authentication app is installed and enabled in PiCloud." : "At least one two-factor authentication app is installed and enabled in PiCloud.",
     "The users can setup at least one two-factor app from the challenge page. Some apps might not be prepared for this" : "The users can setup at least one two-factor app from the challenge page. Some apps might not be prepared for this",
     "The \"twofactor_totp\" app fulfills those requirements, and might be used as a fallback so the users can enter their accounts in order to configure other two-factor authentication apps" : "The \"twofactor_totp\" app fulfills those requirements, and might be used as a fallback so the users can enter their accounts in order to configure other two-factor authentication apps",
     "Enforce two-factor authentication to all the users" : "Enforce two-factor authentication to all the users",

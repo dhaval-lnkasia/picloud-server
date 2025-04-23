@@ -194,7 +194,7 @@
     "This section requires a two-factor authentication app to be installed in ownCloud" : "Bu bölüm ownCloud'a iki faktörlü bir kimlik doğrulama uygulamasının yüklenmesini gerektirir",
     "Enforce two-factor authentication" : "İki faktörlü kimlik doğrulamayı zorunlu kılın",
     "Before enforcing the two-factor authentication, check the following requirements:" : "İki faktörlü kimlik doğrulamayı uygulamadan önce aşağıdaki gereksinimleri kontrol edin:",
-    "At least one two-factor authentication app is installed and enabled in ownCloud." : "ownCloud'da en az bir iki faktörlü kimlik doğrulama uygulaması kurulu ve etkinleştirilmiştir.",
+    "At least one two-factor authentication app is installed and enabled in PiCloud." : "ownCloud'da en az bir iki faktörlü kimlik doğrulama uygulaması kurulu ve etkinleştirilmiştir.",
     "The users can setup at least one two-factor app from the challenge page. Some apps might not be prepared for this" : "Kullanıcılar, meydan okuma sayfasından en az bir adet iki faktörlü uygulama kurabilir. Bazı uygulamalar bunun için hazırlanmamış olabilir",
     "The \"twofactor_totp\" app fulfills those requirements, and might be used as a fallback so the users can enter their accounts in order to configure other two-factor authentication apps" : "\"twofactor_totp\" uygulaması bu gereksinimleri karşılar ve kullanıcıların diğer iki faktörlü kimlik doğrulama uygulamalarını yapılandırmak için hesaplarına girebilmeleri için bir yedek olarak kullanılabilir",
     "Enforce two-factor authentication to all the users" : "Tüm kullanıcılara iki faktörlü kimlik doğrulamayı zorunlu kılın",

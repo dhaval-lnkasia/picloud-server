@@ -6,7 +6,7 @@
     "All queries (summary, single queries with their parameters)" : "Όλα τα ερωτήματα (σύνοψη, απλά ερωτήματα με τις παραμέτρους τους)",
     "All events (summary, single events)" : "Όλα τα συμβάντα (σύνοψη, απλά συμβάντα)",
     "Everything (summary, single queries with their parameters and events)" : "Όλα (σύνοψη, απλά ερωτήματα με τις παραμέτρους και τα συμβάντα τους)",
-    "Enabling this ownCloud diagnostic module will result in collecting data about all queries and events in the system per request." : "Η ενεργοποίηση αυτού του αρθρώματος διαγνωστικού του ownCloud θα οδηγήσει στη συλλογή δεδομένων για όλα τα ερωτήματα και τα συμβάντα στο σύστημα ανά ερώτημα.",
+    "Enabling this PiCloud diagnostic module will  result in collecting data about all queries and events in the system per request." : "Η ενεργοποίηση αυτού του αρθρώματος διαγνωστικού του ownCloud θα οδηγήσει στη συλλογή δεδομένων για όλα τα ερωτήματα και τα συμβάντα στο σύστημα ανά ερώτημα.",
     "Collect data only after authentication of users:" : "Συλλογή δεδομένων μόνο μετά από πιστοποίηση των χρηστών:",
     "Please specify full user name for best search performance" : "Παρακαλούμε καθορίστε το πλήρες όνομα χρήστη για καλύτερη απόδοση αναζήτησης",
     "Allow collecting data for all requests in debug mode (all users, unauthenticated requests)" : "Να επιτρέπεται η συλλογή δεδομένων για όλα τα ερωτήματα στη λειτουργία εντοπισμού σφαλμάτων (όλοι οι χρήστες, ερωτήματα που δεν έχουν ταυτοποιηθεί)",

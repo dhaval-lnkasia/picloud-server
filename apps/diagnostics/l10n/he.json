@@ -6,7 +6,7 @@
     "All queries (summary, single queries with their parameters)" : "כל השאילתות (סיכום, שאילתות בודדות עם המשתנים שלהן)",
     "All events (summary, single events)" : "כל האירועים (סיכום, אירועים בודדים)",
     "Everything (summary, single queries with their parameters and events)" : "הכול (סיכום, שאילתות בודדות עם המשתנים שלהן ואירועים)",
-    "Enabling this ownCloud diagnostic module will result in collecting data about all queries and events in the system per request." : "הפעלת מודול האבחון של ownCloud יגרום לאיסוף מידע אודות כל השאילתות והאירועים במערכת לבקשה.",
+    "Enabling this PiCloud diagnostic module will  result in collecting data about all queries and events in the system per request." : "הפעלת מודול האבחון של ownCloud יגרום לאיסוף מידע אודות כל השאילתות והאירועים במערכת לבקשה.",
     "Collect data only after authentication of users:" : "איסוף מידע רק אחרי אימות של משתמשים:",
     "Please specify full user name for best search performance" : "לטובת ביצועי חיפוש עדיפים יש לספק שם משתמש מלא",
     "Allow collecting data for all requests in debug mode (all users, unauthenticated requests)" : "מאפשר איסוף מידע מכל הבקשות במצב ניפוי שגיאות (כל המשתמשים, בקשות לא מאושרות)",
