@@ -2,7 +2,7 @@
 /**
  * @author Clark Tomlinson  <clark@owncloud.com>
  * @since 10/30/14, 1:08 PM
- * @copyright Copyright (c) 2018, ownCloud GmbH
+ * @copyright LNKASIA TECHSOL
  *
  * This code is covered by the ownCloud Commercial License.
  *

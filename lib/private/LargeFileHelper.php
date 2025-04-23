@@ -6,7 +6,7 @@
  * @author Morris Jobke <hey@morrisjobke.de>
  * @author Thomas Müller <thomas.mueller@tmit.eu>
  *
- * @copyright Copyright (c) 2018, ownCloud GmbH
+ * @copyright LNKASIA TECHSOL
  * @license AGPL-3.0
  *
  * This code is free software: you can redistribute it and/or modify

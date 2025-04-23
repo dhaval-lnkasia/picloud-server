@@ -9,7 +9,7 @@
  * @author Ujjwal Bhardwaj <ujjwalb1996@gmail.com>
  * @author Victor Dubiniuk <dubiniuk@owncloud.com>
  *
- * @copyright Copyright (c) 2018, ownCloud GmbH
+ * @copyright LNKASIA TECHSOL
  * @license AGPL-3.0
  *
  * This code is free software: you can redistribute it and/or modify

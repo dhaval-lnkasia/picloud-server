@@ -19,7 +19,7 @@
  * @author Victor Dubiniuk <dubiniuk@owncloud.com>
  * @author Peter Prochaska <info@peter-prochaska.de>
  *
- * @copyright Copyright (c) 2018, ownCloud GmbH
+ * @copyright LNKASIA TECHSOL
  * @license AGPL-3.0
  *
  * This code is free software: you can redistribute it and/or modify

@@ -8,7 +8,7 @@
  * @author Vincent Petry <pvince81@owncloud.com>
  * @author Lorenzo Perone <lorenzo.perone@yellowspace.net>
  *
- * @copyright Copyright (c) 2018, ownCloud GmbH
+ * @copyright LNKASIA TECHSOL
  * @license AGPL-3.0
  *
  * This code is free software: you can redistribute it and/or modify

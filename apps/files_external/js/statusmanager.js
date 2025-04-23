@@ -3,7 +3,7 @@
  *
  * @author Juan Pablo Villafañez Ramos <jvillafanez@owncloud.com>
  * @author Jesus Macias Portela <jesus@owncloud.com>
- * @copyright Copyright (c) 2018, ownCloud GmbH
+ * @copyright LNKASIA TECHSOL
  *
  * This file is licensed under the Affero General Public License version 3
  * or later.

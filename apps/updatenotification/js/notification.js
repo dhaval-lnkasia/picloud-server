@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2018, ownCloud GmbH
+ * LNKASIA TECHSOL
  *
  * @author Morris Jobke <hey@morrisjobke.de>
  *

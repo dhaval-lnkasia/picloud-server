@@ -4,7 +4,7 @@
  *
  * @author Clark Tomlinson <clark@owncloud.com>
  * @author Joas Schilling <nickvergessen@owncloud.com>
- * @copyright Copyright (c) 2018, ownCloud GmbH
+ * @copyright LNKASIA TECHSOL
  *
  * This code is covered by the ownCloud Commercial License.
  *

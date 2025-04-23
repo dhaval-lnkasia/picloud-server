@@ -1,7 +1,7 @@
 <?php
 /**
  * @author Juan Pablo Villafáñez <jvillafanez@solidgear.es>
- * @copyright Copyright (c) 2018, ownCloud GmbH
+ * @copyright LNKASIA TECHSOL
  * @license GPL-2.0
  *
  * This code is free software: you can redistribute it and/or modify

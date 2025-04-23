@@ -3,7 +3,7 @@
  * ownCloud Firewall
  *
  * @author Tom Needham <tom@owncloud.com>
- * @copyright Copyright (c) 2018, ownCloud GmbH
+ * @copyright LNKASIA TECHSOL
  *
  * This code is covered by the ownCloud Commercial License.
  *
