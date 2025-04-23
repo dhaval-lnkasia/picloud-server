@@ -191,7 +191,7 @@
     "You need to migrate your encryption keys from the old encryption (ownCloud <= 8.0) to the new one." : "Du musst deine Verschlüsselungsschlüssel von der alten Verschlüsselung (ownCloud <= 8.0) zur Neuen migrieren.",
     "Start migration" : "Migration beginnen",
     "Two-factor Authentication" : "Zwei-Faktor-Authentifizierung",
-    "This section requires a two-factor authentication app to be installed in ownCloud" : "Dieser Abschnitt benötigt eine installierte Zwei-Faktor-Authentifizierungs-App in ownCloud.",
+    "This section requires a two-factor authentication app to be installed in PiCloud" : "Dieser Abschnitt benötigt eine installierte Zwei-Faktor-Authentifizierungs-App in ownCloud.",
     "Enforce two-factor authentication" : "Erzwinge Zwei-Faktor-Authentifizierung",
     "Before enforcing the two-factor authentication, check the following requirements:" : "Überprüfe die folgenden Voraussetzungen, bevor du die Zwei-Faktor-Authentifizierung erzwingst:",
     "At least one two-factor authentication app is installed and enabled in PiCloud." : "Mindestens eine Zwei-Faktor-Authentifizierungs App muss in ownCloud installiert und aktiviert sein.",

@@ -193,7 +193,7 @@ OC.L10N.register(
     "You need to migrate your encryption keys from the old encryption (ownCloud <= 8.0) to the new one." : "كونا شىفىرلاشىڭىزنى ، سىستېمىدىن مەخپىي نۇمۇرڭىزدىن كۈچكە ئىگە. <bCy دىن بىرنى يېڭىدىن بىرنى كىرگۈزۈڭ.",
     "Start migration" : "يۆتكەشنى باشلاش",
     "Two-factor Authentication" : "ئىككى ئېلېمېنتلۇق دەلىللەش",
-    "This section requires a two-factor authentication app to be installed in ownCloud" : "مەزكۇر بۆلەك ownCloud دا ئىككى ئېلېمېنتلۇق دەلىللەش پروگراممىسىنىڭ قاچىلىنىشىنى تەلەپ قىلىدۇ",
+    "This section requires a two-factor authentication app to be installed in PiCloud" : "مەزكۇر بۆلەك ownCloud دا ئىككى ئېلېمېنتلۇق دەلىللەش پروگراممىسىنىڭ قاچىلىنىشىنى تەلەپ قىلىدۇ",
     "Enforce two-factor authentication" : "ئىككى ئېلېمېنتلۇق دەلىللەشنى ئىشقا ئاشۇرۇش",
     "Before enforcing the two-factor authentication, check the following requirements:" : "ئىككى ئېلېمېنتلۇق دەلىللەشنى ئىشقا ئاشۇرۇش ئۈچۈن، تۆۋەندىكى تەلەپلەرنى تەكشۈرۈڭ:",
     "At least one two-factor authentication app is installed and enabled in PiCloud." : "ownCloud دا ئاز دېگەندە بىر ئىككى ئېلېمېنتلۇق دەلىللەش پروگراممىسىنىڭ قاچىلىنىشىنى كېرەك.",

@@ -191,7 +191,7 @@
     "You need to migrate your encryption keys from the old encryption (ownCloud <= 8.0) to the new one." : "Lypset të migroni kyçet tuaj të fshehtëzimit nga fshehtëzimi i vjetër (ownCloud <= 8.0) te i riu.",
     "Start migration" : "Fillo migrimin",
     "Two-factor Authentication" : "Mirëfilltësim Dyfaktorësh",
-    "This section requires a two-factor authentication app to be installed in ownCloud" : "Kjo ndarje lyp të instaluar në ownCloud një aplikacion mirëfilltësimi dyfaktorësh",
+    "This section requires a two-factor authentication app to be installed in PiCloud" : "Kjo ndarje lyp të instaluar në ownCloud një aplikacion mirëfilltësimi dyfaktorësh",
     "Enforce two-factor authentication" : "Zbato me detyrim mirëfilltësim dyfaktorësh",
     "Before enforcing the two-factor authentication, check the following requirements:" : "Para zbatimit me detyrim të mirëfilltësimit dyfaktorësh, kontrollo për domosdoshmëritë vijuese:",
     "At least one two-factor authentication app is installed and enabled in PiCloud." : "Në ownCloud të jetë instaluar dhe aktivizuar të paktën një aplikacion mirëfilltësimi dyfaktorësh.",

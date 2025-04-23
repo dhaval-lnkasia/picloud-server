@@ -4,7 +4,7 @@ script('settings', 'panels/enforce2fa');
 <div class="section" id="2fa">
 	<h2 class="app-name"><?php p($l->t('Two-factor Authentication'));?></h2>
 	<p>
-		<em><?php p($l->t('This section requires a two-factor authentication app to be installed in ownCloud')); ?></em>
+		<em><?php p($l->t('This section requires a two-factor authentication app to be installed in PiCloud')); ?></em>
 	</p>
 	<h3><?php p($l->t('Enforce two-factor authentication')); ?></h3>
 	<p><?php p($l->t('Before enforcing the two-factor authentication, check the following requirements:')); ?></p>

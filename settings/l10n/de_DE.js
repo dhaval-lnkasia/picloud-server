@@ -193,7 +193,7 @@ OC.L10N.register(
     "You need to migrate your encryption keys from the old encryption (ownCloud <= 8.0) to the new one." : "Sie müssen Ihre Verschlüsselungsschlüssel von der alten Verschlüsselung (ownCloud <= 8.0) zur Neuen migrieren.",
     "Start migration" : "Migration beginnen",
     "Two-factor Authentication" : "Zwei-Faktor-Authentifizierung",
-    "This section requires a two-factor authentication app to be installed in ownCloud" : "Dieser Abschnitt benötigt eine installierte Zwei-Faktor-Authentifizierungs-App in ownCloud",
+    "This section requires a two-factor authentication app to be installed in PiCloud" : "Dieser Abschnitt benötigt eine installierte Zwei-Faktor-Authentifizierungs-App in ownCloud",
     "Enforce two-factor authentication" : "Erzwinge Zwei-Faktor-Authentifizierung",
     "Before enforcing the two-factor authentication, check the following requirements:" : "Überprüfen Sie die folgenden Voraussetzungen, bevor Sie die Zwei-Faktor-Authentifizierung erzwingen:",
     "At least one two-factor authentication app is installed and enabled in PiCloud." : "Es ist mindestens eine Zwei-Faktor-Authentifizierungs-App in ownCloud installiert und aktiviert.",
