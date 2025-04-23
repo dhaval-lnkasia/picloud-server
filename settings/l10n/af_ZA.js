@@ -176,7 +176,7 @@ OC.L10N.register(
     "Change password" : "Verander wagwoord",
     "Help translate" : "Help met vertaling",
     "You are using %s of %s (%s %%)" : "U gebruik %s van %s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Ontwikkel deur die {communityopen}ownCloud-gemeenskap{linkclose}, die {githubopen}bronkode{linkclose} is onder die {licenseopen}<abbr title=\"Affero General Public License\">APGL</abbr>{linkclose} gelisensieer.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Ontwikkel deur die {communityopen}ownCloud-gemeenskap{linkclose}, die {githubopen}bronkode{linkclose} is onder die {licenseopen}<abbr title=\"Affero General Public License\">APGL</abbr>{linkclose} gelisensieer.",
     "Sessions" : "Sessies",
     "Browser" : "Blaaier",
     "Most recent activity" : "Onlangsste aktiwiteit",

@@ -332,7 +332,7 @@
     "Help translate" : "幫助翻譯",
     "You are using %s" : "您正在使用 %s",
     "You are using %s of %s (%s %%)" : "你 使用的記憶體%s可用空間為%s(%s%%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "由 {communityopen}ownCloud 社群{linkclose} 開發，{githubopen}原始碼{linkclose}使用 {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose} 授權釋出",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "由 {communityopen}ownCloud 社群{linkclose} 開發，{githubopen}原始碼{linkclose}使用 {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose} 授權釋出",
     "Sessions" : "屆會",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "這些是當前登錄到您的網絡，桌面和移動客戶端的%s。",
     "Browser" : "瀏覽器",

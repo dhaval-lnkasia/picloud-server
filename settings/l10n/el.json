@@ -336,7 +336,7 @@
     "Help translate" : "Βοηθήστε στη μετάφραση",
     "You are using %s" : "Χρησιμοποιείτε %s",
     "You are using %s of %s (%s %%)" : "Χρησιμοποιείτε %s από %s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Αναπτύχθηκε από την {communityopen}κοινότητα του ownCloud{linkclose}, ο {githubopen}πηγαίος κώδικας{linkclose} έχει την άδεια της {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Αναπτύχθηκε από την {communityopen}κοινότητα του ownCloud{linkclose}, ο {githubopen}πηγαίος κώδικας{linkclose} έχει την άδεια της {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
     "Sessions" : "Συνεδρίες",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "Αυτοί είναι οι πελάτες Ιστού, επιτραπέζιων υπολογιστών και κινητών συνδεδεμένων στο %s.",
     "Browser" : "Περιηγητής",

@@ -339,7 +339,7 @@ OC.L10N.register(
     "Help translate" : "帮助翻译",
     "You are using %s" : "你已经使用了%s",
     "You are using %s of %s (%s %%)" : "您正在在使用 %s of %s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "由 {communityopen}ownCloud 社区{linkclose}开发，{githubopen}源代码{linkclose}的发布需遵守 {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr> 许可协议{linkclose}。",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "由 {communityopen}ownCloud 社区{linkclose}开发，{githubopen}源代码{linkclose}的发布需遵守 {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr> 许可协议{linkclose}。",
     "Sessions" : "会话",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "这些是当前登录到您的%s的Web、桌面和移动客户端。",
     "Browser" : "浏览器",

@@ -245,7 +245,7 @@ OC.L10N.register(
     "New password" : "Sandi baru",
     "Change password" : "Ubah sandi",
     "Help translate" : "Bantu menerjemahkan",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Dikembangkan oleh {communityopen}komunitas ownCloud{linkclose}, {githubopen}kode sumber{linkclose} dilisensikan dibawah {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Dikembangkan oleh {communityopen}komunitas ownCloud{linkclose}, {githubopen}kode sumber{linkclose} dilisensikan dibawah {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
     "Name" : "Nama",
     "Done" : "Selesai",
     "Version" : "Versi",

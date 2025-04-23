@@ -214,7 +214,7 @@ OC.L10N.register(
     "New password" : "Senhal novèl",
     "Change password" : "Cambiar de senhal",
     "Help translate" : "Ajudatz a tradusir",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Desvolopat per la {communityopen}comunautat ownCloud{linkclose}, lo {githubopen}code font{linkclose} es jos licéncia {licenseopen}<abbr lang=\"en\" title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Desvolopat per la {communityopen}comunautat ownCloud{linkclose}, lo {githubopen}code font{linkclose} es jos licéncia {licenseopen}<abbr lang=\"en\" title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
     "Name" : "Nom",
     "Version" : "Version",
     "Set password" : "Definir lo senhal",

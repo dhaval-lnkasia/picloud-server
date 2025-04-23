@@ -339,7 +339,7 @@ OC.L10N.register(
     "Help translate" : "Помочь с переводом",
     "You are using %s" : "Вы используете %s",
     "You are using %s of %s (%s %%)" : "Вы используете %s из %s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Разработано {communityopen}сообществом ownCloud{linkclose}, {githubopen}исходный код{linkclose} лицензируется в соответствии с {licenseopen}<abbr title=\"Публичной лицензией Affero General\">AGPL</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Разработано {communityopen}сообществом ownCloud{linkclose}, {githubopen}исходный код{linkclose} лицензируется в соответствии с {licenseopen}<abbr title=\"Публичной лицензией Affero General\">AGPL</abbr>{linkclose}.",
     "Sessions" : "Сессии",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "Список клиентов, подключённых сейчас к вашему %s через веб, настольный или мобильный клиент.",
     "Browser" : "Браузер",

@@ -318,7 +318,7 @@
     "Help translate" : "Aidez à traduire",
     "You are using %s" : "Vous utilisez %s",
     "You are using %s of %s (%s %%)" : "Vous utilisez %s sur %s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Développé par la {communityopen}communauté ownCloud{linkclose}, le {githubopen}code source{linkclose} est sous licence {licenseopen}<abbr lang=\"en\" title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Développé par la {communityopen}communauté ownCloud{linkclose}, le {githubopen}code source{linkclose} est sous licence {licenseopen}<abbr lang=\"en\" title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
     "Sessions" : "Sessions",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "Voivi les clients Web, de bureau et mobiles actuellement connectés à votre %s.",
     "Browser" : "Navigateur",

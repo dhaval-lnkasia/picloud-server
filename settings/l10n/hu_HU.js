@@ -275,7 +275,7 @@ OC.L10N.register(
     "New password" : "Az új jelszó",
     "Change password" : "A jelszó megváltoztatása",
     "Help translate" : "Segítsen a fordításban!",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "{communityopen}ownCloud közösség{linkclose} fejleszti, a {githubopen}forráskód{linkclose} {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose} licenc alatt licencelve.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "{communityopen}ownCloud közösség{linkclose} fejleszti, a {githubopen}forráskód{linkclose} {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose} licenc alatt licencelve.",
     "Sessions" : "Munkamenetek",
     "Browser" : "Böngésző",
     "Name" : "Név",

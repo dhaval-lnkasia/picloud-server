@@ -273,7 +273,7 @@ OC.L10N.register(
     "Change password" : "Skift kodeord",
     "Help translate" : "Hjælp med oversættelsen",
     "You are using %s of %s (%s %%)" : "Du bruger %s af %s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Udviklet af {communityopen}ownCloud-fællesskabet{linkclose}, {githubopen}kildekoden{linkclose} er udgivet under licensen {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Udviklet af {communityopen}ownCloud-fællesskabet{linkclose}, {githubopen}kildekoden{linkclose} er udgivet under licensen {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
     "Sessions" : "Visitter",
     "Browser" : "Browser",
     "Most recent activity" : "Seneste aktivitet",

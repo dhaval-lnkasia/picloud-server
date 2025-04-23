@@ -328,7 +328,7 @@ OC.L10N.register(
     "Help translate" : "Axude na tradución",
     "You are using %s" : "Está empregando %s",
     "You are using %s of %s (%s %%)" : "Está empregando %s de %s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Desenvolvido pola {communityopen}comunidade ownCloud{linkclose}, o {githubopen}código fonte{linkclose} está licenciado baixo a {licenseopen}<abbr title=\"Licencia Pública Xeral Affero\">AGPL</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Desenvolvido pola {communityopen}comunidade ownCloud{linkclose}, o {githubopen}código fonte{linkclose} está licenciado baixo a {licenseopen}<abbr title=\"Licencia Pública Xeral Affero\">AGPL</abbr>{linkclose}.",
     "Sessions" : "Sesións",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "Estes son os clientes web, de escritorio e de móbil actualmente conectados a súa %s.",
     "Browser" : "Navegador",

@@ -339,7 +339,7 @@
     "Our Privacy Policy conditions:" : "Условията на нашата Политика за поверителност:",
     "You are using %s" : "Вие използвате %s",
     "You are using %s of %s (%s %%)" : "Вие използвате %s от %s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Разработен от {communityopen}ownCloud общността {linkclose}, {githubopen}изходящия код{linkclose} е лицензиран под {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Разработен от {communityopen}ownCloud общността {linkclose}, {githubopen}изходящия код{linkclose} е лицензиран под {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
     "Sessions" : "Сесии",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "Това са уеб, настолните и мобилните клиенти, които в момента са влезли във вашия %s.",
     "Browser" : "Браузър",

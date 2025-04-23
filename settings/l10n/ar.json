@@ -340,7 +340,7 @@
     "Our Privacy Policy conditions:" : "شروط سياسة الخصوصية الخاصة بنا:",
     "You are using %s" : "أنت تستخدم %s",
     "You are using %s of %s (%s %%)" : "أنت تستخدم %s من %s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "طوّره {communityopen}مجتمع ownCloud {linkclose}، {githubopen}كود المصدر{linkclose} مرخص بموجب {licenseopen}<abbr title=\"Affero General Public License\">رخصة جنو أفيرو العمومية</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "طوّره {communityopen}مجتمع ownCloud {linkclose}، {githubopen}كود المصدر{linkclose} مرخص بموجب {licenseopen}<abbr title=\"Affero General Public License\">رخصة جنو أفيرو العمومية</abbr>{linkclose}.",
     "Sessions" : "جلسات العمل",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "هؤلاء عملاء الويب وسطح المكتب والهواتف الذين سجلوا دخولهم حاليًا إلى %s.",
     "Browser" : "متصفح",

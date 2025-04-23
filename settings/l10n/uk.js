@@ -215,7 +215,7 @@ OC.L10N.register(
     "New password" : "Новий пароль",
     "Change password" : "Змінити пароль",
     "Help translate" : "Допомогти з перекладом",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Розроблено {communityopen} спільнотою ownCloud {linkclose}, {githubopen} вихідний код {linkclose} ліцензується відповідно до {licenseopen} <abbr title = \"Публічної ліцензії Affero General\"> AGPL </ abbr> {linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Розроблено {communityopen} спільнотою ownCloud {linkclose}, {githubopen} вихідний код {linkclose} ліцензується відповідно до {licenseopen} <abbr title = \"Публічної ліцензії Affero General\"> AGPL </ abbr> {linkclose}.",
     "Name" : "Ім’я",
     "Done" : "Готово",
     "Version" : "Версія",

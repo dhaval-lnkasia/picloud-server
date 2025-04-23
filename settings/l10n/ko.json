@@ -339,7 +339,7 @@
     "Our Privacy Policy conditions:" : "개인정보 처리방침:",
     "You are using %s" : "%s을(를) 이용하고 있습니다",
     "You are using %s of %s (%s %%)" : "%s/%s 사용 중(%s%%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "{communityopen}ownCloud 커뮤니티{linkclose}에서 개발함. {githubopen}원본 코드{linkclose}는 {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose} 라이선스로 배포됩니다.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "{communityopen}ownCloud 커뮤니티{linkclose}에서 개발함. {githubopen}원본 코드{linkclose}는 {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose} 라이선스로 배포됩니다.",
     "Sessions" : "세션",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "현재 %s 에 로그인한 웹, 데스크톱 및 모바일 클라이언트입니다.",
     "Browser" : "브라우저",

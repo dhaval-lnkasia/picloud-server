@@ -200,7 +200,7 @@ OC.L10N.register(
     "New password" : "Нова лозинка",
     "Change password" : "Измени лозинку",
     "Help translate" : " Помозите у превођењу",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Развијено од стране {communityopen}оунКлауд заједнице{linkclose}, {githubopen}изворни код{linkclose} је лиценциран под {licenseopen}<abbr title=\"Аферо општа јавна лиценца\">АОЈЛ (AGPL)</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Развијено од стране {communityopen}оунКлауд заједнице{linkclose}, {githubopen}изворни код{linkclose} је лиценциран под {licenseopen}<abbr title=\"Аферо општа јавна лиценца\">АОЈЛ (AGPL)</abbr>{linkclose}.",
     "Name" : "назив",
     "Done" : "Завршено",
     "Version" : "Верзија",

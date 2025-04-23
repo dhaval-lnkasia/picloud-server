@@ -325,7 +325,7 @@
     "Help translate" : "עזרה בתרגום",
     "You are using %s" : "בשימוש שלך %s",
     "You are using %s of %s (%s %%)" : "בשימוש %s מתוך%s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "פיתוח על ידי {open}קהילת ownCloud community{linkclose}, {githubopen}קוד המקור{linkclose} ברישיון תחת ה- {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "פיתוח על ידי {open}קהילת ownCloud community{linkclose}, {githubopen}קוד המקור{linkclose} ברישיון תחת ה- {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
     "Sessions" : "שיחות",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "אלו הם לקוחות האינטרנט, לקוחות שולחן העבודה והלקוחות הניידים שמחוברים כרגע אל ה- %s שלך.",
     "Browser" : "דפדפן",

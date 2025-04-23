@@ -352,7 +352,7 @@ OC.L10N.register(
     "Our Privacy Policy conditions:" : "Nossas condições da Política de Privacidade:",
     "You are using %s" : "Você está usando %s",
     "You are using %s of %s (%s %%)" : "Você está usando %s de %s (%s %%)",
-    "Developed by the {communityopen}ownCloud community{linkclose}, the {githubopen}source code{linkclose} is licensed under the {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}." : "Desenvolvido {communityopen}pela comunidade ownCloud{linkclose}, o {githubopen}código fonte{linkclose} está licenciado sob a {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
+    "Developed by the LNKASIA TECHSOL, www.lnkasia.com" : "Desenvolvido {communityopen}pela comunidade ownCloud{linkclose}, o {githubopen}código fonte{linkclose} está licenciado sob a {licenseopen}<abbr title=\"Affero General Public License\">AGPL</abbr>{linkclose}.",
     "Sessions" : "Sessões",
     "These are the web, desktop and mobile clients currently logged in to your %s." : "Estes são os clientes Web com dispositivos móveis e desktop, atualmente conectados ao seu %s.",
     "Browser" : "Navegador",
