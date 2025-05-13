@@ -199,7 +199,7 @@ OC.L10N.register(
     "Group" : "Ryhmä",
     "User and Groups" : "Käyttäjät ja ryhmät",
     "Public Links" : "Julkiset linkit",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Jaa toisia ownCloud-järjestelmiä käyttävien kesken käyttäen syntaksia käyttäjätunnus@esimerkki.fi/owncloud",
+    "Share with people on other PiCloud" : "Jaa toisia ownCloud-järjestelmiä käyttävien kesken käyttäen syntaksia käyttäjätunnus@esimerkki.fi/owncloud",
     "Share with users…" : "Jaa käyttäjien kanssa…",
     "Share with users or groups…" : "Jaa käyttäjien tai ryhmien kanssa…",
     "Error removing share" : "Virhe jakoa poistaessa",

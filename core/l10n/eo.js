@@ -114,7 +114,7 @@ OC.L10N.register(
     "No users or groups found for {search}" : "Neniu uzanto aŭ grupo troviĝis por {search}",
     "User" : "Uzanto",
     "Group" : "Grupo",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Kunhaviki kun homoj en aliaj ownCloud-oj uzante la sintakson uzantonomo@ekzemplo.com/owncloud",
+    "Share with people on other PiCloud" : "Kunhaviki kun homoj en aliaj ownCloud-oj uzante la sintakson uzantonomo@ekzemplo.com/owncloud",
     "Error removing share" : "Eraris forigo de kunhavigo",
     "Non-existing tag #{tag}" : "Ne ekzistas etikedo #{tag}",
     "invisible" : "nevidebla",

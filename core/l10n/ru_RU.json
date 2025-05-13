@@ -224,7 +224,7 @@
     "User and Groups" : "Пользователь и группы",
     "Public Links" : "Общедоступные ссылки",
     "Sharing is not allowed" : "Предоставление доступа не разрешено",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Поделиться с людьми на других серверах ownCloud используя формат username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Поделиться с людьми на других серверах ownCloud используя формат username@example.com/owncloud",
     "Share with users…" : "Поделиться с пользователями...",
     "Share with users, groups or federated users…" : "Делиться с пользователям, группами или федеративными пользователями…",
     "Share with users or groups…" : "Поделиться с пользователями или группами...",

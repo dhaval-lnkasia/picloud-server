@@ -192,7 +192,7 @@
     "Group" : "Gruppe",
     "User and Groups" : "Brukar og grupper",
     "Public Links" : "Offentlege lenker",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Del med folk på annan ownCloud med syntaks username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Del med folk på annan ownCloud med syntaks username@example.com/owncloud",
     "Share with users…" : "Del med brukarar...",
     "Share with users or groups…" : "Del med brukar enn gruppe...",
     "Error removing share" : "Feil ved fjerning av deling",

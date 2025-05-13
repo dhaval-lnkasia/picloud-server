@@ -227,7 +227,7 @@
     "User and Groups" : "משתמש וקבוצות",
     "Public Links" : "קישורים ציבוריים",
     "Sharing is not allowed" : "השיתוף אסור",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "ניתן לשתף עם אנשים אחרים המשתמשים ב- ownClouds בעזרת הפורמט הבא username@example.com/owncloud",
+    "Share with people on other PiCloud" : "ניתן לשתף עם אנשים אחרים המשתמשים ב- ownClouds בעזרת הפורמט הבא username@example.com/owncloud",
     "Share with users…" : "שיתוף עם משתמשים...",
     "Share with users or groups…" : "שיתוף עם משתמשים או קבוצות...",
     "Error removing share" : "שגיאה בזמן הסרת שיתוף",

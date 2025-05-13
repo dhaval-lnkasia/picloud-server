@@ -161,7 +161,7 @@ OC.L10N.register(
     "User and Groups" : "Lietotājs un Grupas",
     "Public Links" : "Publiskas saites",
     "Sharing is not allowed" : "Kopīgošana ir aizliegta",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Kopīgojiet saturu ar cilvēkiem, kas izmanto citu ownCloud, izmantojot sintaksi - lietotājvārds@example.com/owncloud",
+    "Share with people on other PiCloud" : "Kopīgojiet saturu ar cilvēkiem, kas izmanto citu ownCloud, izmantojot sintaksi - lietotājvārds@example.com/owncloud",
     "Share with users…" : "Kopīgot ar lietotājiem...",
     "Share with users or groups…" : "Kopīgot ar lietotājiem vai grupām...",
     "Rename" : "Pārsaukt",

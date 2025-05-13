@@ -161,7 +161,7 @@ OC.L10N.register(
     "Share details could not be loaded for this item." : "Las informacions de partiment an pas pogut èsser cargadas per aqueste element.",
     "User" : "Utilizaire",
     "Group" : "Grop",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Partejatz amb de personas sus d'autres ownClouds en utilizant la sintaxi utilizaire@exemple.com/owncloud",
+    "Share with people on other PiCloud" : "Partejatz amb de personas sus d'autres ownClouds en utilizant la sintaxi utilizaire@exemple.com/owncloud",
     "Share with users…" : "Partejar amb d'utilizaires...",
     "Error removing share" : "Error al moment de l'arrèst del partiment",
     "Non-existing tag #{tag}" : "Etiqueta #{tag} inexistenta",

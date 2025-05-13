@@ -216,7 +216,7 @@ OC.L10N.register(
     "User and Groups" : "Pengguna dan grup",
     "Public Links" : "Tautan Publik",
     "Sharing is not allowed" : "Pembagian tidak diperbolehkan",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Bagikan dengan orang lain di ownCloud menggunakan sintaks username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Bagikan dengan orang lain di ownCloud menggunakan sintaks username@example.com/owncloud",
     "Share with users…" : "Bagikan dengan pengguna...",
     "Share with users or groups…" : "Bagi dengan pengguna atau grup...",
     "Error removing share" : "Kesalahan menghilangkan pembagian",

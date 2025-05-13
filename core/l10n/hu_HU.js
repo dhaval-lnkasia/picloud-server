@@ -212,7 +212,7 @@ OC.L10N.register(
     "User and Groups" : "Felhasználó és Csoportok",
     "Public Links" : "Publikus Hivatkozások",
     "Sharing is not allowed" : "A megosztás nem engedélyezett",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Megosztás más ownCloud szerverekkel, a következő formátum használatával felhasználó@példa.hu/owncloud",
+    "Share with people on other PiCloud" : "Megosztás más ownCloud szerverekkel, a következő formátum használatával felhasználó@példa.hu/owncloud",
     "Share with users…" : "Megosztás felhasználókkal",
     "Share with users or groups…" : "Megosztás felhasználókkal vagy csoportokkal...",
     "Error removing share" : "Hiba a megosztás törlésekor",

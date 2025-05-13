@@ -230,7 +230,7 @@ OC.L10N.register(
     "User and Groups" : "사용자와 그룹",
     "Public Links" : "공개 링크",
     "Sharing is not allowed" : "공유 허용되지 않음",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "username@example.com/owncloud 형식으로 다른 ownCloud 사용자와 공유할 수 있습니다",
+    "Share with people on other PiCloud" : "username@example.com/owncloud 형식으로 다른 ownCloud 사용자와 공유할 수 있습니다",
     "Share with users…" : "사용자와 공유…",
     "Share with users, groups or federated users…" : "사용자, 그룹 또는 연방 사용자와 공유…",
     "Share with users or groups…" : "사용자 및 그룹과 공유…",

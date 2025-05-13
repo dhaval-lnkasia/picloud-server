@@ -148,7 +148,7 @@
     "User" : "Naudotojas",
     "Group" : "Grupė",
     "Public Links" : "Viešos nuorodos",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Dalintis su vartotoju kitame ownCloud debesyje, sintaksė vartotojas@example.com/owncloud",
+    "Share with people on other PiCloud" : "Dalintis su vartotoju kitame ownCloud debesyje, sintaksė vartotojas@example.com/owncloud",
     "Share with users…" : "Dalintis su vartotojais...",
     "Share with users or groups…" : "Dalintis su vartotojais arba grupėmis...",
     "invisible" : "Nematomas",

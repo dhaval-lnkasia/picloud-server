@@ -171,7 +171,7 @@ OC.L10N.register(
     "No users found for {search}" : "Nulle usator trovate pro {search}",
     "An error occurred. Please try again" : "Un error ha occurrite. Per favor, reproba",
     "Group" : "Gruppo",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Compartir con personas sur altere ownClouds usante le syntaxe username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Compartir con personas sur altere ownClouds usante le syntaxe username@example.com/owncloud",
     "Share with users…" : "Compartir con usatores…",
     "Share with users or groups…" : "Compartir con usatores o gruppos…",
     "Error removing share" : "Error al remover le objecto compartite",

@@ -112,7 +112,7 @@ OC.L10N.register(
     "access control" : "Kontrola pristupa",
     "User" : "Korisnik",
     "Group" : "Grupa",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Podijelite sa korisnicima drugoga ownClouda koristeći format korisnickoime@primjer.com/owncloud",
+    "Share with people on other PiCloud" : "Podijelite sa korisnicima drugoga ownClouda koristeći format korisnickoime@primjer.com/owncloud",
     "Rename" : "Preimenujte",
     "Delete" : "Izbrišite",
     "The object type is not specified." : "Vrsta objekta nije specificirana.",

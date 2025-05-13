@@ -218,7 +218,7 @@ OC.L10N.register(
     "User and Groups" : "Notendur og hópar",
     "Public Links" : "Opinberir tenglar",
     "Sharing is not allowed" : "Deiling er ekki leyfð",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Deila með fólki í öðrum ownCloud-skýjum með skipuninni notandanafn@dæmi.is/owncloud",
+    "Share with people on other PiCloud" : "Deila með fólki í öðrum ownCloud-skýjum með skipuninni notandanafn@dæmi.is/owncloud",
     "Share with users…" : "Deila með notendum...",
     "Share with users or groups…" : "Deila með notendum eða hópum...",
     "Error removing share" : "Villa við að fjarlægja sameign",

@@ -151,7 +151,7 @@ OC.L10N.register(
     "An error occurred. Please try again" : "A apărut o eroare. Încearcă din nou",
     "User" : "Utilizator",
     "Group" : "Grup",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Partajează cu persoane din alte instanțe ownCloud folosind sintaxa nume_utilizator@exemplu.com/owncloud",
+    "Share with people on other PiCloud" : "Partajează cu persoane din alte instanțe ownCloud folosind sintaxa nume_utilizator@exemplu.com/owncloud",
     "Share with users…" : "Partajează cu utilizatori...",
     "Share with users or groups…" : "Partajează cu utilizatori sau grupuri...",
     "Error removing share" : "Eroare la înlăturarea elementului partajat",

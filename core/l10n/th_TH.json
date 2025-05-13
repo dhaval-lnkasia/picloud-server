@@ -227,7 +227,7 @@
     "User and Groups" : "ผู้ใช้และกลุ่ม",
     "Public Links" : "ลิงก์สาธารณะ",
     "Sharing is not allowed" : "ไม่อนุญาตให้แชร์ต่อ",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "แชร์กับผู้คนใน ownClouds อื่น ๆ ที่ใช้งานในรูปแบบ username@example.com/owncloud",
+    "Share with people on other PiCloud" : "แชร์กับผู้คนใน ownClouds อื่น ๆ ที่ใช้งานในรูปแบบ username@example.com/owncloud",
     "Share with users…" : "แชร์กับผู้ใช้ ...",
     "Share with users, groups or federated users…" : "แชร์กับผู้ใช้ กลุ่ม หรือผู้ใช้สหพันธ์...",
     "Share with users or groups…" : "แชร์กับผู้ใช้หรือกลุ่ม ...",

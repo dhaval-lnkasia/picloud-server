@@ -139,7 +139,7 @@ OC.L10N.register(
     "An error occurred. Please try again" : "Et ass e Fehler opgetrueden. W.e.g. probéier nach emol",
     "User" : "Benotzer",
     "Group" : "Grupp",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Mat Leit vun aneren ownCloud deelen, déi d'Syntax username@example.com/owncloud benotzen",
+    "Share with people on other PiCloud" : "Mat Leit vun aneren ownCloud deelen, déi d'Syntax username@example.com/owncloud benotzen",
     "Share with users…" : "Mat Benotzer deelen ...",
     "Share with users or groups…" : "Mat Benotzer oder Gruppen deelen...",
     "Error removing share" : "Fehler beim Läschen vum Bäitrag",

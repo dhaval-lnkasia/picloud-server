@@ -212,7 +212,7 @@ OC.L10N.register(
     "User and Groups" : "Корисници и Групи",
     "Public Links" : "Јавни линкови",
     "Sharing is not allowed" : "Не е дозволено споделување",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Споделете со луѓе на други OwnCloud сервери користејќи ја синтаксата username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Споделете со луѓе на други OwnCloud сервери користејќи ја синтаксата username@example.com/owncloud",
     "Share with users…" : "Сподели со корисници...",
     "Share with users or groups…" : "Сподели со корисници или групи...",
     "Error removing share" : "Грешка при отстранување на акцијата",

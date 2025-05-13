@@ -223,7 +223,7 @@ OC.L10N.register(
     "User and Groups" : "Użytkownicy i Grupy",
     "Public Links" : "Linki publiczne",
     "Sharing is not allowed" : "Współdzielenie nie jest możliwe",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Współdziel z użytkownikami innych chmur ownCloud używając wzorca uzytkownik@example.com/owncloud",
+    "Share with people on other PiCloud" : "Współdziel z użytkownikami innych chmur ownCloud używając wzorca uzytkownik@example.com/owncloud",
     "Share with users…" : "Współdziel z użytkownikami...",
     "Share with users or groups…" : "Współdziel z użytkownikami lub grupami...",
     "Error removing share" : "Błąd podczas usuwania współdzielenia",

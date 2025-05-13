@@ -117,7 +117,7 @@ OC.L10N.register(
     "access control" : "control de acceso",
     "User" : "Usuario",
     "Group" : "Grupo",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Compartir con personas en otras instancias de OwnCloud utilizando la sintaxis username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Compartir con personas en otras instancias de OwnCloud utilizando la sintaxis username@example.com/owncloud",
     "Rename" : "Cambiar nombre",
     "Delete" : "Borrar",
     "The object type is not specified." : "El tipo de objeto no está especificado. ",

@@ -234,7 +234,7 @@ OC.L10N.register(
     "User and Groups" : "Användare och grupper",
     "Public Links" : "Publika länkar",
     "Sharing is not allowed" : "Delning är inte tillåten",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Dela med folk på andra ownClouds med följande syntax username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Dela med folk på andra ownClouds med följande syntax username@example.com/owncloud",
     "Share with users…" : "Dela med användare...",
     "Share with users, groups or federated users…" : "Dela med användare, grupper eller allierade användare...",
     "Share with users or groups…" : "Dela med användare eller grupper...",

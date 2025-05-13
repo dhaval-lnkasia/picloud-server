@@ -193,7 +193,7 @@ OC.L10N.register(
     "Group" : "Gruppe",
     "User and Groups" : "Bruger og Grupper",
     "Public Links" : "Offentlige links",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Del med andre på ownCloud ved hjælp af syntaxen username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Del med andre på ownCloud ved hjælp af syntaxen username@example.com/owncloud",
     "Share with users…" : "Del med brugere...",
     "Share with users or groups…" : "Del med brugere eller grupper...",
     "Error removing share" : "Fejl ved fjernelse af deling",

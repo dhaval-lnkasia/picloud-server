@@ -231,7 +231,7 @@ OC.L10N.register(
     "User and Groups" : "ئىشلەتكۈچى ۋە گۇرۇپپىلار",
     "Public Links" : "ئاممىۋى ئۇلىنىشلار",
     "Sharing is not allowed" : "ھەمبەھىرگە يول قويۇلمىدى",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "تۆۋەندىكى بەلگە ئارقىلىق باشقا ownClouds دىكى كىشلەر بىلەن ھەمبەھىرلەڭ username@example.com/owncloud",
+    "Share with people on other PiCloud" : "تۆۋەندىكى بەلگە ئارقىلىق باشقا ownClouds دىكى كىشلەر بىلەن ھەمبەھىرلەڭ username@example.com/owncloud",
     "Share with users…" : "ئىشلەتكۈچىلەر بىلەن ھەمبەھىرلەش...",
     "Share with users, groups or federated users…" : "ئىشلەتكۈچىلەر، گۇرۇپپا ياكى باشقا ئىشلەتكۈچى بىلەن ھەمبەھىرلەش...",
     "Share with users or groups…" : "ئىشلەتكۈچىلەر بىلەن گۇرۇپپا بىلەن ھەمبەھىرلەش...",

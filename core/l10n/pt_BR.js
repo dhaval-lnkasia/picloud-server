@@ -234,7 +234,7 @@ OC.L10N.register(
     "User and Groups" : "Usuário e Grupos",
     "Public Links" : "Links Públicos",
     "Sharing is not allowed" : "Não é permitido o compartilhamento",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Compartilhar com usuários em outros ownClouds usando a sintaxe username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Compartilhar com usuários em outros ownClouds usando a sintaxe username@example.com/owncloud",
     "Share with users…" : "Compartilhar com os usuários...",
     "Share with users, groups or federated users…" : "Compartilhe com usuários, grupos ou usuários federados ...",
     "Share with users or groups…" : "Compartilhar com usuários ou grupos…",

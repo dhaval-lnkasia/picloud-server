@@ -229,7 +229,7 @@
     "User and Groups" : "Utilisateurs et groupes",
     "Public Links" : "Liens publics",
     "Sharing is not allowed" : "Le partage n’est pas autorisé",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Partagez avec des personnes sur d'autres ownClouds en utilisant la syntaxe utilisateur@exemple.com/owncloud",
+    "Share with people on other PiCloud" : "Partagez avec des personnes sur d'autres ownClouds en utilisant la syntaxe utilisateur@exemple.com/owncloud",
     "Share with users…" : "Partager avec des utilisateurs...",
     "Share with users, groups or federated users…" : "Partage avec des utilisateurs, groupes ou utilisateurs fédérés",
     "Share with users or groups…" : "Partager avec des utilisateurs ou des groupes...",

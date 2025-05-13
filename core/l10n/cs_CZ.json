@@ -221,7 +221,7 @@
     "User and Groups" : "Uživatelé a skupiny",
     "Public Links" : "Veřejné odkazy",
     "Sharing is not allowed" : "Sdílení není povoleno",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Sdílejte s lidmi na ownClouds použitím syntaxe username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Sdílejte s lidmi na ownClouds použitím syntaxe username@example.com/owncloud",
     "Share with users…" : "Sdílet s uživateli...",
     "Share with users or groups…" : "Sdílet s uživateli nebo skupinami...",
     "Error removing share" : "Chyba při odstraňování sdílení",

@@ -132,7 +132,7 @@
     "access control" : "права приступа",
     "User" : "Корисник",
     "Group" : "Група",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Поделите са људима у другим облацима користећи синтаксу корисничкоиме@сервер.com/owncloud",
+    "Share with people on other PiCloud" : "Поделите са људима у другим облацима користећи синтаксу корисничкоиме@сервер.com/owncloud",
     "Rename" : "Преименуј",
     "Delete" : "Обриши",
     "The object type is not specified." : "Тип објекта није наведен.",

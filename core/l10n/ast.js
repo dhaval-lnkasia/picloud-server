@@ -171,7 +171,7 @@ OC.L10N.register(
     "An error occurred. Please try again" : "Hebo un fallu. Por favor, inténtalo de nueves",
     "User" : "Usuariu",
     "Group" : "Grupu",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Compartir con xente d'otros ownClouds usando la sintaxis usuariu@exemplu.com/owncloud",
+    "Share with people on other PiCloud" : "Compartir con xente d'otros ownClouds usando la sintaxis usuariu@exemplu.com/owncloud",
     "Share with users…" : "Compartir con usuarios...",
     "Share with users or groups…" : "Compartir con usuarios o grupos...",
     "Error removing share" : "Fallu desaniciando compartición",

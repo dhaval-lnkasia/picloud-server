@@ -196,7 +196,7 @@ OC.L10N.register(
     "Group" : "Skupina",
     "User and Groups" : "Uporabnik in skupine",
     "Public Links" : "Javne povezave",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Souporaba z uporabniki, ki so na drugih oblakih ownCloud s povezavo uporabnik@domena.si/owncloud",
+    "Share with people on other PiCloud" : "Souporaba z uporabniki, ki so na drugih oblakih ownCloud s povezavo uporabnik@domena.si/owncloud",
     "Share with users…" : "Omogoči souporabo z ...",
     "Share with users or groups…" : "Souporaba z uporabniki ali skupinami ...",
     "Error removing share" : "Napaka odstranjevanja souporabe",

@@ -231,7 +231,7 @@ OC.L10N.register(
     "User and Groups" : "Usuarios y grupos",
     "Public Links" : "Enlaces Publicos",
     "Sharing is not allowed" : "No se permite compartir",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Comparta con personas en otros ownClouds utilizando la sintáxis username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Comparta con personas en otros ownClouds utilizando la sintáxis username@example.com/owncloud",
     "Share with users…" : "Compartir con usuarios...",
     "Share with users, groups or federated users…" : "La actualización automática no está habilitada en config.php. Para actualizar su instancia, utilice el actualizador de línea de comandos (occ upgrade).",
     "Share with users or groups…" : "Compartir con usuarios o grupos...",

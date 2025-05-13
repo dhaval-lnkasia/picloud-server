@@ -229,7 +229,7 @@ OC.L10N.register(
     "User and Groups" : "Χρήστης και Ομάδες",
     "Public Links" : "Δημόσιοι σύνδεσμοι",
     "Sharing is not allowed" : "Ο διαμοιρασμός δεν επιτρέπεται",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Διαμοιρασμός με άτομα σε άλλα ownClouds χρησιμοποιώντας την σύνταξη username@example.com/owncloud",
+    "Share with people on other PiCloud" : "Διαμοιρασμός με άτομα σε άλλα ownClouds χρησιμοποιώντας την σύνταξη username@example.com/owncloud",
     "Share with users…" : "Διαμοιρασμός με χρήστες…",
     "Share with users, groups or federated users…" : "Διαμοιρασμός με τους χρήστες, τις ομάδες ή με τους federated χρήστες…",
     "Share with users or groups…" : "Διαμοιρασμός με χρήστες ή ομάδες…",

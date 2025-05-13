@@ -228,7 +228,7 @@ OC.L10N.register(
     "User and Groups" : "المستخدم والمجموعات",
     "Public Links" : "روابط عامة",
     "Sharing is not allowed" : "غير مسموح بالمشاركة",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "المشاركة مع الأشخاص على ownClouds الأخرى باستخدام العبارة username@example.com/owncloud",
+    "Share with people on other PiCloud" : "المشاركة مع الأشخاص على ownClouds الأخرى باستخدام العبارة username@example.com/owncloud",
     "Share with users…" : "جارٍ المشاركة مع المستخدمين…",
     "Share with users or groups…" : "جارٍ المشاركة مع المستخدمين أو المجموعات…",
     "Error removing share" : "خطأ في إزالة المشاركة",

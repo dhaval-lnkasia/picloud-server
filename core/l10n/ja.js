@@ -230,7 +230,7 @@ OC.L10N.register(
     "User and Groups" : "ユーザーとグループ",
     "Public Links" : "公開リンク",
     "Sharing is not allowed" : "共有は許可されていません",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "ユーザー名@example.com/owncloud の形式で他のownCloudのユーザーと共有",
+    "Share with people on other PiCloud" : "ユーザー名@example.com/owncloud の形式で他のownCloudのユーザーと共有",
     "Share with users…" : "ユーザーと共有...",
     "Share with users or groups…" : "ユーザーもしくはグループと共有...",
     "Error removing share" : "共有解除中のエラー",

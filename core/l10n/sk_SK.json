@@ -174,7 +174,7 @@
     "An error occurred. Please try again" : "Nastala chyba. Prosím, skúste to znovu.",
     "User" : "Používateľ",
     "Group" : "Skupina",
-    "Share with people on other ownClouds using the syntax username@example.com/owncloud" : "Zdieľať s ľuďmi na iných serveroch ownClouds pomocou syntaxe používateľ@doména.com/owncloud",
+    "Share with people on other PiCloud" : "Zdieľať s ľuďmi na iných serveroch ownClouds pomocou syntaxe používateľ@doména.com/owncloud",
     "Share with users…" : "Sprístupniť používateľom...",
     "Share with users or groups…" : "Sprístupniť používateľom alebo skupinám...",
     "Error removing share" : "Chyba pri rušení sprístupnenia",
